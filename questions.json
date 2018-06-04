@@ -8,7 +8,13 @@
     },
     {
       "name" : "Things Fall Apart",
-      "questions" : [],
+      "questions" : [
+            "The main character is this strongman of Umuofia.",
+            "Okonkwo kills this adopted son of his.",
+            "Which traditional event does he disrupt by beating his wife?",
+            "Which one of his sons converts to Christianity?",
+            "Who does Okonkwo defeat in a wrestling match?"
+    ],
       "choices" : [[], [], [], [], []],
       "correctAnswers" : []
     },
