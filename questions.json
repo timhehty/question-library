@@ -1,24 +1,28 @@
 {
-  "library" : {
-    "Wuthering Heights" : {
+  "library" : [
+    {
+      "name" : "Wuthering Heights",
       "questions" : [],
       "choices" : [[], [], [], [], []],
       "correctAnswers" : []
     },
-    "Things Fall Apart" : {
+    {
+      "name" : "Things Fall Apart",
       "questions" : [],
       "choices" : [[], [], [], [], []],
       "correctAnswers" : []
     },
-    "Hamlet" : {
+    {
+      "name" : "Hamlet",
       "questions" : [],
       "choices" : [[], [], [], [], []],
       "correctAnswers" : []
     },
-    "Death of a Salesman" : {
+    {
+      "name" :  "Death of a Salesman",
       "questions" : [],
       "choices" : [[], [], [], [], []],
       "correctAnswers" : []
     }
-  }
+  ]
 }
