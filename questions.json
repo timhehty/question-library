@@ -2,9 +2,16 @@
   "library" : [
     {
       "name" : "Wuthering Heights",
-      "questions" : [],
-      "choices" : [[], [], [], [], []],
-      "correctAnswers" : []
+      "questions" : [
+             "The protagonist, Heathcliff, falls in love with this daughter of Mr. Earnshaw.",
+             "Name the nearby estate, 4 miles from Wuthering Heights.",
+             "Mr. Lockwood, along with this woman, are the main narrators of the novel.",
+             "Catherine ends up marrying this owner of Thrushcross Grange instead of Heathcliff.",
+             "This brother of Catherine frequently abused Heathcliff as a child."
+      ],
+      "choices" : [["Catherine Earnshaw", "Emma Rochester", "Madame Bovary", "Emily Parker"], ["Wildfell Hall", "Thornfield Hall", "Thrushcross Grange", "1 Gorman Avenue"], 
+                   ["Brenda Fuller", "Samantha Smith", "Nelly Dean", "George W. Bush"], ["Edgar Linton", "Edward Rochester", "John Smith", "Charles Hughson"], ["Henry Earnshaw", "George Earnshaw", "David Earnshaw", "Hindley Earnshaw"]],
+      "correctAnswers" : ["Catherine Earnshaw", "Thrushcross Grange", "Nelly Dean", "Edgar Linton", "Hindley Earnshaw"]
     },
     {
       "name" : "Things Fall Apart",
@@ -15,8 +22,9 @@
             "Which one of his sons converts to Christianity?",
             "Who does Okonkwo defeat in a wrestling match?"
     ],
-      "choices" : [[], [], [], [], []],
-      "correctAnswers" : []
+      "choices" : [["Okonkwo","Richard Parker","M'baku","Obi"], ["Mandela","Ikemefuna","T'Challa","Ubuntu"], ["Week of Peace","Shark Week","Rain Dance","Week of Solace"], 
+                   ["Omar","Steven Kumalo","Nwoye","Habibi"], ["Ekwefi the Lion", "Akinfenwa the Goat", "Ezinma the Dog", "Amalinze the Cat"]],
+      "correctAnswers" : ["Okonkwo", "Ikemefuna", "Week of Peace", "Nwoye", "Amalinze the Cat"]
     },
     {
       "name" : "Hamlet",
