@@ -33,10 +33,17 @@
       "correctAnswers" : []
     },
     {
-      "name" :  "Death of a Salesman",
-      "questions" : [],
-      "choices" : [[], [], [], [], []],
-      "correctAnswers" : []
+      "name" :  "Death of a salesman",
+      "questions" : [
+            "Play tells of the desmise of this titular salesman.",
+            "Family consists of Wife Linda and these two sons.",
+            "What car does Willy use to kill himself?",
+            "This brother of Willy returns from Africa rich.",
+            "Willy fails at selling sporting goods in this state."
+      ],
+      "choices" : [["Billy Holman", "Billy Mays", "Willy Loman", "William Highman"], ["Biff and Happy", "Marvin and John", "Simon and Garfunkel", "Frank and Joe"], 
+                   ["Honda Civic", "Chevy", "Studebaker", "Model-T"], ["Brother George", "Uncle Jay", "Uncle Ben", "Joseph McCarthy"], ["Georgia", "Florida", "California", "Indiana"]],
+      "correctAnswers" : ["Willy Loman", "Biff and Happy", "Studebaker", "Uncle Ben", "Florida"]
     }
   ]
 }
