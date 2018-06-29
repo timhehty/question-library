@@ -9,8 +9,11 @@
              "Catherine ends up marrying this owner of Thrushcross Grange instead of Heathcliff.",
              "This brother of Catherine frequently abused Heathcliff as a child."
       ],
-      "choices" : [["Catherine Earnshaw", "Emma Rochester", "Madame Bovary", "Emily Parker"], ["Wildfell Hall", "Thornfield Hall", "Thrushcross Grange", "1 Gorman Avenue"], 
-                   ["Brenda Fuller", "Samantha Smith", "Nelly Dean", "George W. Bush"], ["Edgar Linton", "Edward Rochester", "John Smith", "Charles Hughson"], ["Henry Earnshaw", "George Earnshaw", "David Earnshaw", "Hindley Earnshaw"]],
+      "choices" : [["Catherine Earnshaw", "Emma Rochester", "Madame Bovary", "Emily Parker"], 
+                  ["Wildfell Hall", "Thornfield Hall", "Thrushcross Grange", "1 Gorman Avenue"], 
+                  ["Brenda Fuller", "Samantha Smith", "Nelly Dean", "George W. Bush"], 
+                  ["Edgar Linton", "Edward Rochester", "John Smith", "Charles Hughson"], 
+                  ["Henry Earnshaw", "George Earnshaw", "David Earnshaw", "Hindley Earnshaw"]],
       "correctAnswers" : ["Catherine Earnshaw", "Thrushcross Grange", "Nelly Dean", "Edgar Linton", "Hindley Earnshaw"]
     },
     {
@@ -22,14 +25,21 @@
             "Which one of his sons converts to Christianity?",
             "Who does Okonkwo defeat in a wrestling match?"
     ],
-      "choices" : [["Okonkwo","Richard Parker","M'baku","Obi"], ["Mandela","Ikemefuna","T'Challa","Ubuntu"], ["Week of Peace","Shark Week","Rain Dance","Week of Solace"], 
-                   ["Omar","Steven Kumalo","Nwoye","Habibi"], ["Ekwefi the Lion", "Akinfenwa the Goat", "Ezinma the Dog", "Amalinze the Cat"]],
+      "choices" : [["Okonkwo","Richard Parker","M'baku","Obi"], 
+                  ["Mandela","Ikemefuna","T'Challa","Ubuntu"], 
+                  ["Week of Peace","Shark Week","Rain Dance","Week of Solace"], 
+                  ["Omar","Steven Kumalo","Nwoye","Habibi"], 
+                  ["Ekwefi the Lion", "Akinfenwa the Goat", "Ezinma the Dog", "Amalinze the Cat"]],
       "correctAnswers" : ["Okonkwo", "Ikemefuna", "Week of Peace", "Nwoye", "Amalinze the Cat"]
     },
     {
       "name" : "Hamlet",
       "questions" : [],
-      "choices" : [[], [], [], [], []],
+      "choices" : [[], 
+                  [], 
+                  [], 
+                  [], 
+                  []],
       "correctAnswers" : []
     },
     {
@@ -41,9 +51,38 @@
             "This brother of Willy returns from Africa rich.",
             "Willy fails at selling sporting goods in this state."
       ],
-      "choices" : [["Billy Holman", "Billy Mays", "Willy Loman", "William Highman"], ["Biff and Happy", "Marvin and John", "Simon and Garfunkel", "Frank and Joe"], 
-                   ["Honda Civic", "Chevy", "Studebaker", "Model-T"], ["Brother George", "Uncle Jay", "Uncle Ben", "Joseph McCarthy"], ["Georgia", "Florida", "California", "Indiana"]],
+      "choices" : [["Billy Holman", "Billy Mays", "Willy Loman", "William Highman"], 
+                  ["Biff and Happy", "Marvin and John", "Simon and Garfunkel", "Frank and Joe"], 
+                  ["Honda Civic", "Chevy", "Studebaker", "Model-T"], 
+                  ["Brother George", "Uncle Jay", "Uncle Ben", "Joseph McCarthy"], 
+                  ["Georgia", "Florida", "California", "Indiana"]],
       "correctAnswers" : ["Willy Loman", "Biff and Happy", "Studebaker", "Uncle Ben", "Florida"]
-    }
+    },
+    {
+      "name" : "Don Quixote",
+      "questions" : [
+            "The titular knight travels Spain with this faithful squire of his.",
+            "Don Quixote loves this unseen princess of El Toboso.",
+            "What structures are attacked by Don Quixote, as he mistakes them for giants?",
+            "What is the name of Don Quixote's horse?",
+            "In the final scenes of the novel, Don Quixote is defeated by this character."
+      ],
+      "choices" : [["Javier Hernandez", "Diego Costa", "Sancho Panza", "Herrero Rodriguez"], 
+                  ["Princess Peach", "Dulcinea", "Cinderella", "Isabella"], 
+                  ["windmills", "barnhouses", "restaurants", "castles"], 
+                  ["Marengo", "Copenhagen", "Rocinante", "Nacho"], 
+                  ["Andres Iniesta", "Knight of the Black Sun", "El Cid", "Knight of the White Moon"]],
+      "correctAnswers" : ["Sancho Panza", "Dulcinea", "windmills", "Rocinante", "Knight of the White Moon"]
+    },
+    {
+      "name" : "The Sun Also Rises",
+      "questions" : [],
+      "choices" : [[], 
+                  [], 
+                  [], 
+                  [], 
+                  []],
+      "correctAnswers" : []
+    },
   ]
 }
